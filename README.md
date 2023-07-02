@@ -1,4 +1,4 @@
-# Snake_Game_2D.
+# Snake_Game_2D
 • Snake Game: Snake is an older classic video game. It was first created in late 70s. Later it was brought to PCs. This game is sometimes called Nibbles.
 
 # About project: 
